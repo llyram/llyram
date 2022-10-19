@@ -87,13 +87,13 @@
       </td>
     </tr>
     <tr>
-      <td colspan=2>
-        <img src="https://holyubofficial.net/uv/service/hvtrs8%2F-svrgai-qtctq.feoona%60.aoo%2F%3Duqep%3DOapynl%2Fccsvenilo%24tjeoe%3Fgktju%60-fapk" align="center"> 
+      <td colspan=2 align="center">
+        <img src="https://streak-stats.demolab.com/?user=Maryll-castelino&theme=github-dark&hide_border=true&background=161b22&stroke=58a5fe&ring=58a5fe&dates=58a5fe" align="center"> 
       </td>
     </tr>
     <tr>
       <td colspan=2>
-        <img src="https://activity-graph.herokuapp.com/graph?username=Maryll-castelino&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe" align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Maryll-castelino&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
       </td>
     </tr>
   </table>  
