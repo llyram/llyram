@@ -78,22 +78,22 @@
       <!-- Github Stats -->
       <td valign="top" width="50%">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Maryll-castelino&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+          <img src="https://github-readme-stats.vercel.app/api?username=llyram&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
         </div>
       </td>
       <!-- Most used Languages -->
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryll-castelino&hide_border=true&layout=compact&theme=github_dark" align="left" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyram&hide_border=true&layout=compact&theme=github_dark" align="left" />
       </td>
     </tr>
     <tr>
       <td colspan=2 align="center">
-        <img src="https://streak-stats.demolab.com/?user=Maryll-castelino&theme=github-dark&hide_border=true&background=161b22&stroke=58a5fe&ring=58a5fe&dates=58a5fe" align="center"> 
+        <img src="https://streak-stats.demolab.com/?user=llyram&theme=github-dark&hide_border=true&background=161b22&stroke=58a5fe&ring=58a5fe&dates=58a5fe" align="center"> 
       </td>
     </tr>
     <tr>
       <td colspan=2>
-        <img src="https://activity-graph.herokuapp.com/graph?username=Maryll-castelino&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=llyram&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
       </td>
     </tr>
   </table>  
