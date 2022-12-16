@@ -3,11 +3,11 @@
 </div>  
 
 
-### <div align="center">I'm Maryll and I'm currently pursuing my Bachelor's of Technology in Computer Science and Engineering </div>
+### <div align="center">I'm Maryll and I'm currently pursuing my Bachelor's of Technology in Computer Science and Engineering from Christ University, Bangalore.</div>
 
 - 🔭 I’m currently working as a Software Developer Intern at Phoenix Compliance
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React Native, ASP.NET MVC & Angular
 
 - ⚡ Fun fact: I use Arch BTW
 
@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td colspan=2>
-        <img src="https://activity-graph.herokuapp.com/graph?username=llyram&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=llyram&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
       </td>
     </tr>
   </table>  
