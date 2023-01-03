@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Developer Intern at Phoenix Compliance
 
-- 🌱 I’m currently learning React Native, ASP.NET MVC & Angular
+- 🌱 I’m currently learning SpringBoot.
 
 - ⚡ Fun fact: I use Arch BTW
 
