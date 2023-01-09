@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Maryll and I'm currently pursuing my Bachelor's of Technology in Computer Science and Engineering from Christ University, Bangalore.</div>
 
-- 🔭 I’m currently working as a Software Developer Intern at Phoenix Compliance
+- 🔭 I’m currently working as Data Engineer Intern at Novo Nordisk
 
 - 🌱 I’m currently learning SpringBoot.
 
@@ -70,8 +70,7 @@
 
 <br/>
 
-## Github Stats
-
+## Stats
 <div align="center">
   <table>
     <tr>
@@ -87,8 +86,11 @@
       </td>
     </tr>
     <tr>
-      <td colspan=2 align="center">
+      <td>
         <img src="https://streak-stats.demolab.com/?user=llyram&theme=github-dark&hide_border=true&background=161b22&stroke=58a5fe&ring=58a5fe&dates=58a5fe" align="center"> 
+      </td>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/MaryllCastelino?border=0&radius=10">
       </td>
     </tr>
     <tr>
