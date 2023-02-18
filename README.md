@@ -90,7 +90,7 @@
         <img src="https://streak-stats.demolab.com/?user=llyram&theme=github-dark&hide_border=true&background=161b22&stroke=58a5fe&ring=58a5fe&dates=58a5fe" align="center"> 
       </td>
       <td>
-        <img src="https://leetcard.jacoblin.cool/MaryllCastelino?border=0&radius=10">
+        <img src="https://leetcard.jacoblin.cool/llyram?border=0&radius=10">
       </td>
     </tr>
     <tr>
