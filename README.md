@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Maryll and I'm currently pursuing my Bachelor's of Technology in Computer Science and Engineering from Christ University, Bangalore.</div>
+### <div align="center">I'm Maryll Castelino and I'm currently pursuing my Bachelor's of Technology in Computer Science and Engineering from Christ University, Bangalore.</div>
 
 - 🔭 I’m currently working as Data Engineer Intern at Novo Nordisk
 
