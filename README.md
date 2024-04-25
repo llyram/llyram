@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as Associate Data Engineer at Novo Nordisk
 
-- 🌱 I’m currently learning SpringBoot.
-
 - ⚡ Fun fact: I use Arch BTW
 
 <br/>  
