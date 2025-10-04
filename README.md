@@ -5,9 +5,8 @@
 
 ### <div align="center">I'm Maryll Castelino and I'm a graduate of Bachelor of Technology in Computer Science and Engineering from Christ University, Bangalore.</div>
 
-- 🔭 I’m currently working as Associate Data Engineer at Novo Nordisk
+- 🔭 I’m currently working as a Data Architect at Novo Nordisk
 
-- ⚡ Fun fact: I use Arch BTW
 
 <br/>  
 <img src="https://komarev.com/ghpvc/?username=llyram&&style=flat-square" align="center" />
@@ -30,7 +29,7 @@
 <a href="https://stackoverflow.com/users/12786846/llyram" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/castelino77" target="_blank">
+<a href="https://instagram.com/maryllcastelino" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -89,11 +88,6 @@
       </td>
       <td>
         <img src="https://leetcard.jacoblin.cool/llyram?border=0&radius=10">
-      </td>
-    </tr>
-    <tr>
-      <td colspan=2>
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=llyram&theme=github&bg_color=0d1117&color=58a5fe&line=c2d0d8&point=58a5fe&hide_border=true" align="center">
       </td>
     </tr>
   </table>  
